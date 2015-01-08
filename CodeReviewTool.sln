@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReviewTool", "CodeReviewTool\CodeReviewTool.csproj", "{4233BF42-6B6D-4DCD-BC80-2EB4257DAE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReviewTool.Tests", "CodeReviewTool.Tests\CodeReviewTool.Tests.csproj", "{F73585CB-3649-499D-A9FD-8F1ADC4713F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4233BF42-6B6D-4DCD-BC80-2EB4257DAE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4233BF42-6B6D-4DCD-BC80-2EB4257DAE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4233BF42-6B6D-4DCD-BC80-2EB4257DAE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4233BF42-6B6D-4DCD-BC80-2EB4257DAE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73585CB-3649-499D-A9FD-8F1ADC4713F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73585CB-3649-499D-A9FD-8F1ADC4713F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73585CB-3649-499D-A9FD-8F1ADC4713F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73585CB-3649-499D-A9FD-8F1ADC4713F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

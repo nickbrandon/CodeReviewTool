@@ -1,0 +1,6 @@
+namespace CodeReviewTool.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
