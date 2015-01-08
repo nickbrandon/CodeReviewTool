@@ -16,16 +16,5 @@ namespace CodeReviewTool
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
 
-        //Where is the right place to do this RavenDBDocumentStore initialiation?
-
-        //public static IDocumentStore RavenDbDocumentStore { get; private set; }
-
-        //private static void CreateRavenDBDocumentStore()
-        //{
-        //    RavenDbDocumentStore = new DocumentStore
-        //    {
-        //        ConnectionStringName = "ravenDB"
-        //    }.Initialize();
-        //}
     }
 }
